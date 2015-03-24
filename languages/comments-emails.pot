@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comments Emails\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-23 22:01+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Aleksej Solovjov <ya@ukraya.ru>\n"
+"Language-Team: ukraya.ru <ya@ukraya.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments-emails.php:128
+#: ../comments-emails.php:136
+#: ../comments-emails.php:216
+#: ../comments-emails.php:333
+msgid "Comments Emails"
+msgstr ""
+
+#: ../comments-emails.php:137
+msgid "The plugin allows to export the names and email addresses of users, who have left comments on the blog. E-mail addresses of spammers will not be exported."
+msgstr ""
+
+#: ../comments-emails.php:150
+msgid "Fields"
+msgstr ""
+
+#: ../comments-emails.php:151
+msgid "Data from whitch table fields with comments (wp_comments) will be exported."
+msgstr ""
+
+#: ../comments-emails.php:155
+msgid "Name / <small>comment_author</small>"
+msgstr ""
+
+#: ../comments-emails.php:156
+msgid "Emails / <small>comment_author_email</small>"
+msgstr ""
+
+#: ../comments-emails.php:162
+msgid "Delimiter"
+msgstr ""
+
+#: ../comments-emails.php:163
+msgid "Fields delimiter."
+msgstr ""
+
+#: ../comments-emails.php:170
+msgid "Format"
+msgstr ""
+
+#: ../comments-emails.php:171
+msgid "File format for downloading."
+msgstr ""
+
+#: ../comments-emails.php:175
+msgid "CSV"
+msgstr ""
+
+#: ../comments-emails.php:176
+msgid "TXT"
+msgstr ""
+
+#: ../comments-emails.php:182
+msgid "Show Emails"
+msgstr ""
+
+#: ../comments-emails.php:184
+msgid "Download Emails"
+msgstr ""
+
+#: ../comments-emails.php:191
+msgid "Emails"
+msgstr ""
+
+#: ../comments-emails.php:192
+msgid "Found emails; if empty - nothing found."
+msgstr ""
+
+#: ../comments-emails.php:403
+msgid "Comments Emails plugin <a href = \"http://ukraya.ru/comments-emails/support\" target = \"_blank\">Support</a>"
+msgstr ""
+
+#: ../inc/wp-settings-api-class.php:356
+msgid "None"
+msgstr ""
+
